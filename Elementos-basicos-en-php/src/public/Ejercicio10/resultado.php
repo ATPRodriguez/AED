@@ -15,6 +15,6 @@ echo "<p>" . calcular($numero) . "</p>";
 
 echo "<form method=\"post\" action=\"main.php\">
   <input type=\"submit\" value=\"Volver\">
-</form>"
+</form>" 
 
 ?>
