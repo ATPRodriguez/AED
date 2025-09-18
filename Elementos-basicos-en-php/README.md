@@ -13,6 +13,7 @@
 - [Ejercicio 6](https://github.com/ATPRodriguez/AED/tree/main/Elementos-basicos-en-php/Ejercicios/Ejercicio%206)
 - [Ejercicio 7](https://github.com/ATPRodriguez/AED/tree/main/Elementos-basicos-en-php/Ejercicios/Ejercicio%207)
 - [Ejercicio 8](https://github.com/ATPRodriguez/AED/tree/main/Elementos-basicos-en-php/Ejercicios/Ejercicio%208)
+- [Ejercicio 9](https://github.com/ATPRodriguez/AED/tree/main/Elementos-basicos-en-php/Ejercicios/Ejercicio%209)
 
 </div>
 </div>
