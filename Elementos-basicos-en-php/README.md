@@ -6,6 +6,7 @@
 ## Índice
 
 - [Ejercicio 1](https://github.com/ATPRodriguez/AED/tree/main/Elementos-basicos-en-php/Ejercicios/Ejercicio%201)
+- [Ejercicio 2](https://github.com/ATPRodriguez/AED/tree/main/Elementos-basicos-en-php/Ejercicios/Ejercicio%202)
 
 </div>
 </div>
