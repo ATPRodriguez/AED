@@ -1,0 +1,11 @@
+<div align="center">
+
+# Creación y uso de elementos básicos en php
+<div align="justify">
+
+## Índice
+
+- [Ejercicio 1](https://github.com/ATPRodriguez/AED/tree/main/Elementos-basicos-en-php/Ejercicios/Ejercicio%201)
+
+</div>
+</div>
