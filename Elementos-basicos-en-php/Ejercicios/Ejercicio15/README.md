@@ -8,7 +8,7 @@
    
 
 
-### [Codigo](https://github.com/ATPRodriguez/AED/tree/main/Elementos-basicos-en-php/src/public/Ejercicio2)
+### [Codigo](https://github.com/ATPRodriguez/AED/tree/main/Elementos-basicos-en-php/src/public/Ejercicio15)
 ```php
 //Funcion principal
 function calcular($numero, $numeroGenerado) {

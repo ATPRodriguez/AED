@@ -8,7 +8,7 @@
    
 
 
-### [Codigo](https://github.com/ATPRodriguez/AED/tree/main/Elementos-basicos-en-php/src/public/Ejercicio20)
+### [Codigo](https://github.com/ATPRodriguez/AED/tree/main/Elementos-basicos-en-php/src/public/Ejercicio18)
 ```php
 //Funcion principal
 function esPalindromo($palabra) {

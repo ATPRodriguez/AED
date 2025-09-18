@@ -8,7 +8,7 @@
    
 
 
-### [Codigo](https://github.com/ATPRodriguez/AED/tree/main/Elementos-basicos-en-php/src/public/Ejercicio4)
+### [Codigo](https://github.com/ATPRodriguez/AED/tree/main/Elementos-basicos-en-php/src/public/Ejercicio5)
 ```php
 //Funcion principal
 function mostrar() {
