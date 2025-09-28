@@ -6,8 +6,6 @@
 
 ## Dado un fichero ops.csv con columnas: `z1,z2,op` donde: `op ∈ {suma, resta, producto, division}`. Se debe calcular `z1 (op) z2` y generar como salida un fichero resultado.csv.
 
-
-
 ### [Codigo](https://github.com/ATPRodriguez/AED/tree/main/Archivos-en-php/src/public/Ejercicio1)
 ```php
 //Funciones
