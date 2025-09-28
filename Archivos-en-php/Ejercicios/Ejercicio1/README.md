@@ -46,6 +46,19 @@ function escribir(Array $array, string $path){
     }
 ```
 
+### Salida
+```
+z1,z2,op,resultado
+3,1,suma,4
+10,4,resta,6
+2,8,resta,-6
+5,2,producto,10
+7,0,producto,0
+9,3,division,3
+10,3,division,3.3333333333333
+8,0,division,ERROR
+```
+
 </div>
 
 </div>
