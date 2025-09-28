@@ -38,7 +38,6 @@ function analizar(String $texto){
  */
 function escribir(array $array, string $path){
     $file = fopen($path, "w");
-    print_r($array[0]);
     for ($i=0; $i < count($array[0]); $i++) { 
         fwrite($file, $array[0][$i] . "," . $array[1][$i] . "\n");
     }
